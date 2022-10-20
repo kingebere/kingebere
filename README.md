@@ -18,7 +18,7 @@ __I am *Dike Goodluck* a Software engineer (Frontend). I am very much interested
 
 - 🔭 I’m currently working on Web Based Projects in JavaScript.
 - 🌱 I’m currently learning Frontend,Backend.
-- 👯 I’m looking to collaborate on Laravel, security Projects and can help you with Website Deployments Configurations and Setup.
+- 👯 I’m looking to collaborate on Java,Springboot , Javascript and Node Projects and can help you with Website Deployments Configurations and Setup.
 - 📫 You can reach me at: <a href="mailto:gudoski30@gmail.com">gudoski30@gmail.com</a>
 - 💭 My dream is to work with the best minds and be the best .
 
